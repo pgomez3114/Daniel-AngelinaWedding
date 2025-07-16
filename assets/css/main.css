@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #f1faeb;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -204,7 +204,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 3.5rem;
+		font-size: 5rem;
 		line-height: 1.2;
 	}
 
