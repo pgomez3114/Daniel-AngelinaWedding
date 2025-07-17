@@ -101,6 +101,8 @@ input, select, textarea {
   top: 0;
   font-size: 100px
   padding: 14px 16px;
+  height:500px;
+  width:500px;
 }
 
 /* Add a grey background color on mouse-over */
