@@ -97,10 +97,9 @@ input, select, textarea {
   background: black;
   display: block;
   position: absolute;
-  right: 20px;
+  right: 0;
   top: 0;
-  font-size: 100px
-  padding: 14px 16px;
+  font-size: 100px;
   height:100px;
   width:100px;
 }
