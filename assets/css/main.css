@@ -73,13 +73,13 @@ input, select, textarea {
 }
 
  Style the navigation menu 
-.Topnav {
+.topnav {
 	 overflow: hidden;
 	 position: relative;
 	} 
 
 /* Hide the links inside the navigation menu (except for logo/home) */
-.Topnav #myLinks {
+.topnav #myLinks {
 	  display: none;
 }
 
