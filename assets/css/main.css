@@ -99,7 +99,8 @@ input, select, textarea {
   position: absolute;
   right: 0;
   top: 0;
-  font-size: 17px
+  font-size: 20px
+  padding: 14px 16px;
 }
 
 /* Add a grey background color on mouse-over */
