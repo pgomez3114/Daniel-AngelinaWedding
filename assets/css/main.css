@@ -202,12 +202,12 @@ input, select, textarea {
 			color: inherit;
 			text-decoration: none;
 		}
-/* Style the navigation menu */
+/* Style the navigation menu 
 	.Topnav {
 	 overflow: hidden;
   	 background-color: #333;
   	 position: relative;
-	}
+	} */
 /* Hide the links inside the navigation menu (except for logo/home) */
 	.Topnav #myLinks {
 	  display: none;
