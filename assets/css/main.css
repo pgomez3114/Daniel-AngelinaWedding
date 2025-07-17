@@ -209,7 +209,7 @@ input, select, textarea {
   	 position: relative;
 	}
 /* Hide the links inside the navigation menu (except for logo/home) */
-	.topnav #myLinks {
+	.Topnav #myLinks {
 	  display: none;
 	}
 
