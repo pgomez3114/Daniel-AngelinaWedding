@@ -17,7 +17,7 @@ form, label, legend, table, caption, tbody,
 tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video {
+section, summary, time, mark, audio, video, Topnav {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -71,6 +71,17 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+
+ Style the navigation menu 
+	.Topnav {
+	 overflow: hidden;
+  	 background-color: #333;
+  	 position: relative;
+	} 
+/* Hide the links inside the navigation menu (except for logo/home) */
+	.Topnav #myLinks {
+	  display: none;
+	}
 
 /* Basic */
 
@@ -202,16 +213,6 @@ input, select, textarea {
 			color: inherit;
 			text-decoration: none;
 		}
-/* Style the navigation menu 
-	.Topnav {
-	 overflow: hidden;
-  	 background-color: #333;
-  	 position: relative;
-	} */
-/* Hide the links inside the navigation menu (except for logo/home) */
-	.Topnav #myLinks {
-	  display: none;
-	}
 
 
 	h1 {
