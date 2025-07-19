@@ -26,7 +26,7 @@
 				$body.removeClass('is-preload');
 			}, 100);
 		});
-	function myFunction() = function ()  {
+	window.myFunction() = function ()  {
         var x = document.getElementById("myLinks");
         if (x.style.display === "block") {
         x.style.display = "none";
